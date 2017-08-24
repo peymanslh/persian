@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<section class="posts">
+  <h2 class="page-heading">❖ &nbsp;{{ page.tag }}</h2>
+  {% for post in page.posts %}
+    {% capture currentyear %}{{post.date | jdate: "%Y" | habify }}{% endcapture %}
+    {% if currentyear != year %}
+      {% unless forloop.first %}</ul>{% endunless %}
+        <h3>{{ currentyear }}</h3>
+        <ul>
+        {% capture year %}{{currentyear}}{% endcapture %}
+      {% endif %}
+    <li><span>{{ post.date | jdate: "%d %b" | habify }}</span><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></li>
+    {% if forloop.last %}</ul>{% endif %}
+  {% endfor %}
+</section>
+
+<aside class="tag-cloud">
+<h2 class="page-heading">❖ &nbsp;همه برچسب ها</h2>
+{{ site | tag_cloud }}
+</aside>

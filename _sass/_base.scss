@@ -1,0 +1,160 @@
+@font-face {
+  font-family: Vazir;
+  src: url('fonts/Vazir.woff') format('woff');
+  font-weight: normal;
+}
+@font-face {
+  font-family: Vazir;
+  src: url('fonts/Vazir-Bold.woff') format('woff');
+  font-weight: bold;
+}
+@font-face {
+  font-family: Vazir;
+  src: url('fonts/Vazir-Thin.woff') format('woff');
+  font-weight: 200;
+}
+@font-face {
+  font-family: 'SpaceMono';
+  src: url('fonts/space-mono-regular.woff2') format('woff');
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+}
+::selection {
+  background-color: $dark-blue;
+  color: $light-grey;
+}
+::-moz-selection {
+  background-color: $dark-blue;
+  color: $light-grey;
+}
+body {
+  font-family: Vazir, Tahoma, Arial;
+  background-color: $light-grey;
+  direction: rtl;
+}
+a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/* Blog responsive Container */
+.container {
+  display: block;
+  width: 45rem;
+  margin: 0 auto;
+  max-width: 100%;
+}
+@media (max-width: 47rem) {
+  .container {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+
+/* Blog header */
+.main-header {
+  margin-top: 30px;
+  margin-bottom: 50px;
+
+	.logo {
+		margin-top: 0;
+		font-size: 1.3rem;
+		display: inline-block;
+		background-color: $dark-blue;
+		color: $light-grey;
+		padding: 0.4rem 0.9rem;
+	}
+  nav {
+    ul {
+      list-style: none;
+      padding-right: 0;
+      margin: 0 auto;
+
+      li {
+        display: inline-block;
+
+        a {
+          display: block;
+          padding: 3px 10px;
+          color: $dark-blue;
+          text-decoration: none;
+          font-size: 0.9rem;
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+  }
+	nav ul li:first-child a {
+	  padding-right: 0;
+	}
+}
+
+
+/* Blog footer */
+.main-footer {
+  font-size: 0.75rem;
+  color: $med-blue;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 20px 10px;
+  margin: 40px auto 10px auto;
+
+  a {
+    color: $med-blue;
+  }
+}
+
+
+/* Blog Dark border */
+.borders div {
+  position: fixed;
+  background-color: $dark-blue;
+}
+@media (max-width: 47rem) {
+  .borders div {
+    display: none;
+  }
+}
+.borders .top {
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: auto;
+  height: 10px;
+}
+.borders .right {
+  top: 0;
+  right: 0;
+  left: auto;
+  bottom: 0;
+  width: 10px;
+}
+.borders .bottom {
+  top: auto;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  height: 10px;
+}
+.borders .left {
+  top: 0;
+  right: auto;
+  left: 0;
+  bottom: 0;
+  width: 10px;
+}
+
+
+
+
+

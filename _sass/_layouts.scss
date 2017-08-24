@@ -1,0 +1,132 @@
+/* Blog Home page posts list */
+.posts {
+  h3 {
+    margin-bottom: 0;
+  }
+
+  ul {
+    padding-right: 0;
+    list-style: none;
+
+    li {
+      display: block;
+      margin: 10px auto;
+      font-size: 1rem;
+
+      span {
+        color: $med-blue;
+        width: 6rem;
+        display: inline-block;
+      }
+
+      a {
+        display: inline-block;
+        color: $dark-blue;
+      }
+    }
+  }
+}
+
+/* Blog 404 page */
+.page404 {
+  text-align: center;
+  color: $dark-blue;
+}
+
+/* Tags page */
+.tag-cloud {
+  a {
+    color: $med-blue;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Blog post and page detail */
+.page-detail {
+
+  .page-title {
+    font-size: 1.8rem;
+  }
+
+  .page-info {
+    color: $med-blue;
+    font-size: 0.85rem;
+  }
+
+  .page-content {
+    font-size: 1rem;
+    font-weight: 200;
+    line-height: 1.8;
+    color: $dark-blue;
+
+    a {
+      color: $dark-blue;
+      text-decoration: underline;
+    }
+
+    img {
+      display: block;
+      margin: 5px auto;
+      height: auto;
+      max-width: 100%;
+    }
+
+    blockquote {
+      color: lighten($dark-blue, 30%);
+    }
+
+    hr {
+      height: 1px;
+      background-color: rgba(0, 0, 0, 0.1);
+      width: 200px;
+      display: block;
+      color: $med-blue;
+      font-size: 1.7rem;
+      border: none;
+      box-sizing: border-box;
+      position: relative;
+      margin: 20px auto;
+
+      &:before {
+        position: absolute;
+        top: -24px;
+        right: 86px;
+        content: '\2e2d';
+        background-color: $light-grey;
+        padding: 0 3px;
+      }
+    }
+  }
+}
+
+.page-tags {
+  margin-top: 40px;
+  display: block;
+
+  span {
+    color: $dark-blue;
+    margin-left: 5px;
+  }
+  a {
+    color: $med-blue;
+    vertical-align: middle;
+  }
+}
+
+.next-prev-post {
+  border-top: 1px solid rgba(0, 0, 0, 0.04);
+  margin: 50px auto 100px auto;
+
+  a {
+    color: $med-blue;
+    font-size: 0.85rem;
+
+    span {
+      font-size: 1.3rem;
+    }
+  }
+}
