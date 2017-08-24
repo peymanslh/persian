@@ -17,7 +17,7 @@ title: پیمان صالحی
 email: slh.peyman@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   پیمان صالحی، طراح و توسعه دهنده وب
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/persian" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: peymanslh
 github_username:  peymanslh
