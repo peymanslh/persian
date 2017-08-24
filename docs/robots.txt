@@ -1,1 +1,1 @@
-Sitemap: /persian/sitemap.xml
+Sitemap: http://peymansalehi.net/persian/sitemap.xml
