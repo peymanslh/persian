@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="/persian/feed.xml" rel="self" type="application/atom+xml" /><link href="/persian/" rel="alternate" type="text/html" /><updated>2017-08-24T19:44:41+04:30</updated><id>/persian/</id><title type="html">پیمان صالحی</title><subtitle>پیمان صالحی، طراح و توسعه دهنده وب
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="/persian/feed.xml" rel="self" type="application/atom+xml" /><link href="/persian/" rel="alternate" type="text/html" /><updated>2017-08-24T19:51:08+04:30</updated><id>/persian/</id><title type="html">پیمان صالحی</title><subtitle>پیمان صالحی، طراح و توسعه دهنده وب
 </subtitle><entry><title type="html">استفاده از ابزارهایی که کمک میکنن به روز باشم</title><link href="/persian/tools-help-keep-up-to-date.html" rel="alternate" type="text/html" title="استفاده از ابزارهایی که کمک میکنن به روز باشم" /><published>2016-12-06T22:38:03+03:30</published><updated>2016-12-06T22:38:03+03:30</updated><id>/persian/tools-help-keep-up-to-date</id><content type="html" xml:base="/persian/tools-help-keep-up-to-date.html">&lt;p&gt;تو این دوره ای که ما زندگی میکنیم اینکه به روز باشیم نکته خیلی مهمی هست، تکنولوژی ها روز به روز در حال تغییر هستن و هر روزه تکنولوژی های جدیدی منتشر میشن به خصوص در زمینه برنامه نویس و طراحی وب که حرکت کردن همراه تکنولوژی ها کار رو برای ما راحت تر میکنه.&lt;/p&gt;
 
 &lt;p&gt;برای این کار هم بهترین راه خوندن کتاب ها و مطالبی هست که وبسایت ها و وبلاگ ها منتشر میکنن، اما مطمعنن همه ما مشفله های زیادی تو زندگی داریم که این وقت رو بهمون نمیده که هر روز به این وبسایت ها و وبلاگ ها که تعدادشون شاید به ۳۰ – ۴۰ تا یا بیشتر ممکنه برسه سر بزنیم و مطالبشون رو بخونیم.&lt;/p&gt;
@@ -8,7 +8,7 @@
 &lt;h2 id=&quot;دنبال-کردن-وبلاگ-ها&quot;&gt;دنبال کردن وبلاگ ها&lt;/h2&gt;
 &lt;p&gt;من برای اینکه بتونم یه سری از وبلاگ ها رو دنبال کنم و از مطلب های جدیدشون باخبر بشم از &lt;a href=&quot;https://feedly.com&quot;&gt;Feedly&lt;/a&gt; استفاده میکنم، با عضویت تو فیدلی میتونین یه لیست از وبسایت هایی که مطالبشون رو دوست دارین رو بهش اضافه کنید و تو دسته های مختلف قرارشون بدین و با نصب اپلیکیشن فیدلی رو موبایل میتونین لیست مطالب جدید این وبسایت ها رو ببینین. من یه لیست از وبلاگ های خارجی و ایرانی برای خودم تهیه کردم و همه ی اونها رو تو فیدلی قرار دادم و تقریبا هر هفته یه بار اون ها رو چک میکنم. اگه هنوز با فیدلی کار نکردین برای شروع میتونین از لیستی که من برای خودم تهیه کردم استفاده کنین، شما با انتخاب دکمه + که تو سایدبار صفحه اصلی فیدلی هست به صفحه اضافه کردن محتوا میرین، پایین این صفحه با انتخاب گزینه Import OPML میتونین یه فایل OPML رو وارد کنین. من یه خروجی OPML از فیدلی خودم گرفتم و برای دانلود اینجا قرار دادم.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/files/feedly-7f50955b-75a1-42dd-90d7-dff20cd0c33e-2017-08-24.opml.xml&quot;&gt;دانلود فایل opml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/persian/files/feedly-7f50955b-75a1-42dd-90d7-dff20cd0c33e-2017-08-24.opml.xml&quot;&gt;دانلود فایل opml&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;(مدت زیادی از تهیه این لیست میگذره و هر وقت وبلاگ های جدیدی به لیستم اضافه کردم سعی میکنم این فایل رو هم به روز کنم)&lt;/p&gt;
 
@@ -104,7 +104,7 @@
   &lt;li&gt;گارگاه : طراحی رابط / تجربه کاربری&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><category term="یادداشت" /><summary type="html">وقتی سال قبل تو وبلاگم درباره سال ۹۳ نوشتم زیاد راضی کننده نبود ولی میخواستم سال ۹۴ خوبی داشته باشم، امروز قبل نوشتن این مطلب وقتی کمی درباره کارهایی که تو این سال انجام دادم فکر میکردم، فهمیدم ۹۴ هم جز سال هایی کم کارم بود.</summary></entry><entry><title type="html">کتاب خوانی : محبوب همه و روشنایی ها</title><link href="/persian/mahboobe-hame-va-roshanayiha.html" rel="alternate" type="text/html" title="کتاب خوانی : محبوب همه و روشنایی ها" /><published>2015-05-04T23:38:03+04:30</published><updated>2015-05-04T23:38:03+04:30</updated><id>/persian/mahboobe-hame-va-roshanayiha</id><content type="html" xml:base="/persian/mahboobe-hame-va-roshanayiha.html">&lt;p&gt;از امسال سعی میکنم وقت بیشتری رو برای کتاب خونی بزارم و هر چند وقت یه کتابی رو برای خوندن انتخاب کنم و دربارش توی وبلاگم بنویسم و از اونجایی که کتاب خون حرفه ای نیستم قصد نقد و بررسی کردن و از اینجور بحث ها رو ندارم و فقط یه توضیح کوتاهی و یه جمله از کتاب رو مینویسم ، اول از همه یه کتاب داستانی کوتاه رو به پیشنهاد یکی از دوستام انتخاب کردم.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/mahboobe-hame-va-roshanayiha.jpg&quot; alt=&quot;محبوب همه و روشنایی ها&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/persian/images/mahboobe-hame-va-roshanayiha.jpg&quot; alt=&quot;محبوب همه و روشنایی ها&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;اسم کتاب “محبوب همه و روشنایی ها” هست، اثری از آنتوان چخوف که به دست حسن جلالی، رضا همراه و عزیزالله سامان به فارسی ترجمه شده، کتابی که شامل ۶ داستان کوتاه و یه داستان طولانی تر نسبت به بقیه داستانهاست میشه.&lt;/p&gt;
 
@@ -146,7 +146,7 @@
 
 &lt;p&gt;به طور خیلی اتفاقی و با اصرار یکی از دوستام لحظه های آخر تو این استارتاپ ویکند ثبت نام کردم و از روز اول که وارد دانشگاه شدم و مربی ها روی سن رفتن و شروع به حرف زدن کردن فهمیدم که سه روز پر جنب و جوش رو پیش رو داریم.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/sw-amol-001.jpg&quot; alt=&quot;استارتاپ ویکند&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/persian/images/sw-amol-001.jpg&quot; alt=&quot;استارتاپ ویکند&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;همه ی شرکت کننده ها سرشار از ایده های قشنگ و حیرت آور بودند و اومده بودند که یاد بگیرند چطوری ایده هاشونو به ثمر بنشونن و برای شروع یک کار مسیر درست رو انتخاب کنند و از اون طرف مربی هایی با تجربه, که هیچ ادعایی نداشتند و اومده بودند بدون هیچ چشم داشتی به گروه ها یاد بدند چجوری گروهی کار کنند, همه به دنبال هدف باشند و مسیر درست رو انتخاب کنند.&lt;/p&gt;
 
