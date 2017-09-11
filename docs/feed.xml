@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://peymansalehi.net/persian/feed.xml" rel="self" type="application/atom+xml" /><link href="http://peymansalehi.net/persian/" rel="alternate" type="text/html" /><updated>2017-09-12T02:56:50+04:30</updated><id>http://peymansalehi.net/persian/</id><title type="html">پیمان صالحی</title><subtitle>پیمان صالحی، طراح و توسعه دهنده وب
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://peymansalehi.net/persian/feed.xml" rel="self" type="application/atom+xml" /><link href="http://peymansalehi.net/persian/" rel="alternate" type="text/html" /><updated>2017-09-12T03:00:42+04:30</updated><id>http://peymansalehi.net/persian/</id><title type="html">پیمان صالحی</title><subtitle>پیمان صالحی، طراح و توسعه دهنده وب
 </subtitle><entry><title type="html">استفاده از Dropbox Paper</title><link href="http://peymansalehi.net/persian/dropbox-paper.html" rel="alternate" type="text/html" title="استفاده از Dropbox Paper" /><published>2017-09-12T03:38:26+04:30</published><updated>2017-09-12T03:38:26+04:30</updated><id>http://peymansalehi.net/persian/dropbox-paper</id><content type="html" xml:base="http://peymansalehi.net/persian/dropbox-paper.html">&lt;p&gt;چند وقتی بود دنبال یه ویرایشگر متن خوب میگشتم که در کنار ساده بودن امکانات خوبی داشته باشه و همه جا هم برام قابل دسترس باشه تا این که دراپ باکس سرویس جدیدی به نام &lt;a href=&quot;https://www.dropbox.com/paper&quot;&gt;Paper&lt;/a&gt; رو منتشر کرد که البته اون اوایل زیاد ازش استفاده نمیکردم ولی الان کلا ازش برای نوشتن و ذخیره یادداشت هام استفاده میکنم.&lt;/p&gt;
 
 &lt;p&gt;این مدتی که من از Paper استفاده کردم بعضی از امکاناتش خیلی خوب و کار راه انداز بود که چند تاشون رو اینجا مینویسم.&lt;/p&gt;
 
-&lt;p&gt;##امکانات کلی&lt;/p&gt;
+&lt;h2 id=&quot;امکانات-کلی&quot;&gt;امکانات کلی&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;یکی از نکته های خوب Paper ساده بودنشه، برای نوشتن کلی ایکون و منو نداره که گیج کننده باشه، تقریبا هر چیزی همون جایی هست که باید باشه.&lt;/li&gt;
   &lt;li&gt;یکی از بهترین قسمت هاش ادیتور Markdown ـِش هست که راست به چپ و فارسی رو خوب پشتیبانی میکنه و در کنار اینکه میتونین مارک داون بنویسین از گزینه + سمت چپ هم میتونین برای درج جدول، قطعه کد، چک باکس، لیست و وارد کردن عکس و فایل از دراپ باکستون استفاده کنید.&lt;/li&gt;
@@ -13,7 +13,7 @@
   &lt;li&gt;با انتخاب گزینه دانلود میشه خیلی راحت از سند نوشته شده با فرمت  docx و Markdown خروجی گرفت .&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;##امکاناتی برای کار گروهی&lt;/p&gt;
+&lt;h2 id=&quot;امکاناتی-برای-کار-گروهی&quot;&gt;امکاناتی برای کار گروهی&lt;/h2&gt;
 
 &lt;p&gt;از نکته های خوب Paper امکاناتی هست که برای کار گروهی روی سند ها بهمون میده، به تازگی برای مدیریت و هماهنگی یه پروژه از Paper استفاده کردیم و امکانات ساده و خوبش واقعا کمک کرد بهمون.&lt;/p&gt;
 
