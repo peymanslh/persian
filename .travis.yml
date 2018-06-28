@@ -13,7 +13,7 @@ before_install:
   - gem install jekyll-archives
 
 script:
-  - jekyll build -d docs
+  - bundle exec jekyll build -d docs
 
 deploy:
   provider: pages
