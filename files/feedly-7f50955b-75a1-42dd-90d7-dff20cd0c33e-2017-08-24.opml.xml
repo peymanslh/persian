@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Peyman subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Development Magazine" title="Development Magazine">
+            <outline type="rss" text="Scotch" title="Scotch" xmlUrl="http://scotch.io/feed" htmlUrl="http://scotch.io/feed"/>
+            <outline type="rss" text="Planet Nodejs" title="Planet Nodejs" xmlUrl="http://www.planetnodejs.com/feed" htmlUrl="http://planetnodejs.com"/>
+            <outline type="rss" text="Smashing Magazine" title="Smashing Magazine" xmlUrl="http://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com"/>
+        </outline>
+        <outline text="FA Blog" title="FA Blog">
+            <outline type="rss" text="IT Crowd" title="IT Crowd" xmlUrl="http://feeds.feedburner.com/ITstart" htmlUrl="http://itcrowd.ir"/>
+            <outline type="rss" text="بهزاد شعبانی" title="بهزاد شعبانی" xmlUrl="http://behzad.shabani.me/rss" htmlUrl="http://behzad.shabani.me"/>
+            <outline type="rss" text="فرزام خجسته‌نیا" title="فرزام خجسته‌نیا" xmlUrl="http://farzam.me/farsi/rss" htmlUrl="http://farzam.me/persian/index"/>
+            <outline type="rss" text="میکائیل اندیشه" title="میکائیل اندیشه" xmlUrl="http://mekaeil.me/feed/" htmlUrl="http://mekaeil.me/farsi"/>
+            <outline type="rss" text="امیر حبیب زاده" title="امیر حبیب زاده" xmlUrl="http://amirh.ir/feed/" htmlUrl="http://amirh.ir"/>
+            <outline type="rss" text="محمد صالح سوزنچی" title="محمد صالح سوزنچی" xmlUrl="http://feeds2.feedburner.com/soozanchi" htmlUrl="http://saleh.soozanchi.ir"/>
+            <outline type="rss" text="وبلاگ شخصی مسعود فاطمی" title="وبلاگ شخصی مسعود فاطمی" xmlUrl="http://fatemi.me/feed/" htmlUrl="http://fatemi.me"/>
+            <outline type="rss" text="آرش منطقی" title="آرش منطقی" xmlUrl="http://feeds.feedburner.com/arashm/feed" htmlUrl="http://arashm.net/blog"/>
+            <outline type="rss" text="تجربه های پراکنده" title="تجربه های پراکنده" xmlUrl="http://blog.abyz.ir/feed/" htmlUrl="http://blog.abyz.ir"/>
+            <outline type="rss" text="GlobalPersian" title="GlobalPersian" xmlUrl="http://feeds.feedburner.com/salmanweblog" htmlUrl="http://www.globalpersian.com/"/>
+            <outline type="rss" text="سالار کابلی" title="سالار کابلی" xmlUrl="http://feeds.feedburner.com/sallar" htmlUrl="https://sallar.me/farsi"/>
+            <outline type="rss" text="کیبرد آزاد" title="کیبرد آزاد" xmlUrl="http://feeds.feedburner.com/freekeyboard" htmlUrl="https://jadi.net"/>
+            <outline type="rss" text="وبلاگ سیلورکاور" title="وبلاگ سیلورکاور" xmlUrl="http://feeds.feedburner.com/SilvercoversWeblog" htmlUrl="https://silvercover.ir"/>
+            <outline type="rss" text="front-end" title="front-end" xmlUrl="http://front-end.ir/feed.xml" htmlUrl="http://front-end.ir/"/>
+            <outline type="rss" text="Morilog" title="Morilog" xmlUrl="http://morilog.ir/feed/" htmlUrl="http://morilog.ir"/>
+            <outline type="rss" text="آرش میلانی: هکر و نینجای خوشحال‌سازی" title="آرش میلانی: هکر و نینجای خوشحال‌سازی" xmlUrl="http://www.arashmilani.com/persian/rss" htmlUrl="https://arashmilani.com:443/persian/index"/>
+            <outline type="rss" text="نوید کاشانی" title="نوید کاشانی" xmlUrl="http://navid.kashani.ir/feed/" htmlUrl="http://navid.kashani.ir"/>
+            <outline type="rss" text=" بهرنگ نوروزی نیا " title=" بهرنگ نوروزی نیا " xmlUrl="http://behrang.github.io/feed.xml" htmlUrl="http://behrang.github.io/"/>
+        </outline>
+        <outline text="EN Blog" title="EN Blog">
+            <outline type="rss" text="Perfection Kills" title="Perfection Kills" xmlUrl="http://feeds.feedburner.com/PerfectionKills" htmlUrl="http://perfectionkills.com/"/>
+            <outline type="rss" text="Read the Tea Leaves" title="Read the Tea Leaves" xmlUrl="http://nolanlawson.com/feed/" htmlUrl="https://nolanlawson.com"/>
+            <outline type="rss" text="JavaScript is Sexy » JavaScript is Sexy" title="JavaScript is Sexy » JavaScript is Sexy" xmlUrl="http://javascriptissexy.com/feed/" htmlUrl="http://javascriptissexy.com"/>
+            <outline type="rss" text="Michael Herman" title="Michael Herman" xmlUrl="http://mherman.org/atom.xml" htmlUrl="http://mherman.org/"/>
+            <outline type="rss" text="Danial Khosravi's Blog" title="Danial Khosravi's Blog" xmlUrl="http://danialk.github.io/atom.xml" htmlUrl="http://DanialK.github.com/"/>
+            <outline type="rss" text="Mark Rabey" title="Mark Rabey" xmlUrl="http://markrabey.com/rss/" htmlUrl="http://markrabey.com/"/>
+            <outline type="rss" text="ifdattic" title="ifdattic" xmlUrl="http://www.ifdattic.com/atom.xml" htmlUrl="http://www.ifdattic.com/"/>
+            <outline type="rss" text="David Walsh Blog" title="David Walsh Blog" xmlUrl="http://feeds.feedburner.com/Bludice" htmlUrl="https://davidwalsh.name"/>
+            <outline type="rss" text="2ality feed" title="2ality feed" xmlUrl="http://www.2ality.com/feeds/posts/default" htmlUrl="http://2ality.com/"/>
+            <outline type="rss" text="Sallar Kaboli" title="Sallar Kaboli" xmlUrl="http://sallar.me/atom.xml" htmlUrl="https://sallar.me"/>
+            <outline type="rss" text="NEWS.JS.ORG" title="NEWS.JS.ORG" xmlUrl="http://news.js.org/feed/" htmlUrl="https://news.js.org"/>
+        </outline>
+        <outline text="FA Magazine" title="FA Magazine">
+            <outline type="rss" text="Hive | مجله توسعه‌دهندگان  وب" title="Hive | مجله توسعه‌دهندگان  وب" xmlUrl="http://hive.ir/feed/" htmlUrl="https://hive.ir"/>
+        </outline>
+    </body>
+</opml>
