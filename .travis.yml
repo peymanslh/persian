@@ -22,4 +22,4 @@ deploy:
   local_dir: docs
   target_branch: gh-pages
   keep-history: true
-  fqdn: peymansalehi.net/persian
+  fqdn: peyman.blog/persian
